@@ -953,7 +953,7 @@ exports.ownermenu = (prefix) => {
 exports.thanksto = () => {
 	return`
   *THANKS TO*
-  *≻* DikaArdnt
+  *≻* Rizki Muhammad Adam
   *≻* ZeeoneOfc
   *≻* FatihArridho
   *≻* Yoga
